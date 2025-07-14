@@ -1,0 +1,17 @@
+{
+    "UpdateServiceCell": [
+        {
+            "newlatitude": "37.239737",
+            "newlongitude": "-95.650706",
+            "newaltitude": "816",
+            "newbeamtype": "Wide",
+            "newprovider": "T- Mobile-USA",
+            "newplmn": "310411",
+            "newgateway": "AST-MID-02",
+            "newfrequenygroup": "FQ ID 54, BAND 26, BW 1.4, UL CF 848, DL CF 888",
+            "newcellpriority": "9",
+            "newreceivemode": "2",
+            "newtransmitmode": "2"
+        }
+    ]
+}

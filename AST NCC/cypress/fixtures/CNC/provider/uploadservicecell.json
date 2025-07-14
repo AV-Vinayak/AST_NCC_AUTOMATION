@@ -1,0 +1,21 @@
+{
+    "uploadfiles": [
+        {
+            "type": {
+                "geocell": "Geo Cell",
+                "servicecell": "Service Request"
+            },
+            "country": {
+                "usa": "USA",
+                "openwater": "Open Waters",
+                "japan": "Japan"
+            },
+            "gateway": {
+                "midland": "AST-MID-02",
+                "hawai": "GC-HAW-02",
+                "brewster": "Brewster",
+                "japan":"AST-JAP-01"
+            }
+        }
+    ]
+}

@@ -1,0 +1,7 @@
+Cell ID,Cell Latitude,Cell Longitude,Status,PlmnId,Beam Type,Frequency Id,Cell Priority,Receive Mode,Transmit Mode,Cell Name
+139287,31.4704,130.8012,enabled,44011,wide,2,,,,JAP-01
+1392448,24.4165,154.1322,enabled,44011,wide,2,,,,JAP-02
+1392369,37.5112,139.9699,enabled,44011,wide,2,,,,JAP-03
+1392260,41.2509,141.066,enabled,44011,wide,2,,,,JAP-04
+1392199,37.1954,136.9804,enabled,44011,wide,2,,,,JAP-05
+1392129,32.9226,132.5618,disabled,44011,wide,2,,,,JAP-06

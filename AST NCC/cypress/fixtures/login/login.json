@@ -1,0 +1,22 @@
+{
+  "userDetails": [
+    {
+      "username": "vk123qa@gmail.com",
+      "password": "Vk123@qa"
+    }
+  ],
+  "InvalidDetails": [
+    {
+      "username":"default@.com",
+      "password":"admin@12"
+    },
+    {
+      "username":"default@emai.com",
+      "password":"admin@123"
+    },
+    {
+      "username":"",
+      "password":""
+    }
+  ]
+}

@@ -1,0 +1,101 @@
+{
+    "createServiceCell": [
+        {
+            "USA_1": {
+                "latitude": "40.5422",
+                "longitude": "-123.5401",
+                "altitude": "142",
+                "cell_name": "USA-Cy-Test1",
+                "beam_type":"Wide",
+                "provider":"AT&T-USA",
+                "plmnId":"310410",
+                "gateway":"AST-MID-02",
+                "frequency_group":"FQ ID 2, BAND 8, BW 3, UL CF 895.5, DL CF 941.5",
+                "cell_priority": "2",
+                "receieve_mode": "1",
+                "transmit_mode": "1"
+            },
+            "USA_2": {
+                "latitude": "37.5589",
+                "longitude": "-121.9092",
+                "altitude": "222",
+                "cell_name": "USA-Cy-Test2",
+                "cell_priority": "1",
+                "receieve_mode": "1",
+                "transmit_mode": "1"
+            },
+            "USA_3": {
+                "latitude": "36.6793",
+                "longitude": "-121.3546",
+                "altitude": "516",
+                "cell_name": "USA-Cy-Test3",
+                "cell_priority": "10",
+                "receieve_mode": "1",
+                "transmit_mode": "2"
+            },
+            "USA_4": {
+                "latitude": "48.404",
+                "longitude": "-124.7109",
+                "altitude": "234",
+                "cell_name": "USA-Cy-Test4",
+                "cell_priority": "1",
+                "receieve_mode": "2",
+                "transmit_mode": "1"
+            },
+            "USA_5": {
+                "latitude": "33.6646",
+                "longitude": "-118.2610",
+                "altitude": "0",
+                "cell_name": "USA-Cy-Test5",
+                "cell_priority": "8",
+                "receieve_mode": "2",
+                "transmit_mode": "2"
+            },
+            "USA_6": {
+                "latitude": "46.4876",
+                "longitude": "-122.4486",
+                "altitude": "352",
+                "cell_name": "USA-Cy-Test6",
+                "cell_priority": "7",
+                "receieve_mode": "2",
+                "transmit_mode": "1"
+            },
+            "USA_7": {
+                "latitude": "41.3334",
+                "longitude": "-119.7019",
+                "altitude": "1846",
+                "cell_name": "USA-Cy-Test7",
+                "cell_priority": "2",
+                "receieve_mode": "2",
+                "transmit_mode": "1"
+            },
+            "USA_8": {
+                "latitude": "33.3170",
+                "longitude": "-114.7106",
+                "altitude": "69",
+                "cell_name": "USA-Cy-Test8",
+                "cell_priority": "4",
+                "receieve_mode": "1",
+                "transmit_mode": "2"
+            },
+            "USA_9": {
+                "latitude": "32.9368",
+                "longitude": "-107.8225",
+                "altitude": "2449",
+                "cell_name": "USA-Cy-Test9",
+                "cell_priority": "5",
+                "receieve_mode": "2",
+                "transmit_mode": "1"
+            },
+            "USA_10": {
+                "latitude": "32.8558",
+                "longitude": "-99.2916",
+                "altitude": "440",
+                "cell_name": "USA-Cy-Test10",
+                "cell_priority": "2",
+                "receieve_mode": "2",
+                "transmit_mode": "0"
+            }
+        }
+    ]
+}

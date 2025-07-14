@@ -1,0 +1,40 @@
+{
+    "CellMapping": [
+        {
+            "gcJap":{
+                "serviceCellId1":"139287",
+                "serviceCellId2":"1392448",
+                "serviceCellId3":"1392369",
+                "serviceCellId4":"1392260",
+                "serviceCellId5":"1392199"
+            },
+            "gcMid":{
+                "serviceCellId1":"18401010",
+                "serviceCellId2":"18407",
+                "serviceCellId3":"10003",
+                "serviceCellId4":"1840178",
+                "serviceCellId5":"18404090",
+                "serviceCellId6":"10002",
+                "serviceCellId7":"18405647",
+                "serviceCellId8":"1840116"
+
+            },
+            "cellpair1": {
+                "enodeBcell1": "ENB-14-LNCEL-40",
+                "enodeBcell2": "ENB-14-LNCEL-41"
+            },
+            "cellpair2":{
+                "enodeBcell1": "ENB-02-LNCEL-21",
+                "enodeBcell2": "ENB-02-LNCEL-11"
+            },
+            "cellpair3":{
+                "enodeBcell1":"ENB_012-LNCEL-5",
+                "enodeBcell2":"ENB_012-LNCEL-6"
+            },
+            "cellpair4":{
+                "enodeBcell1":"ENB-02-LNCEL-10",
+                "enodeBcell2":"ENB-02-LNCEL-20"
+            }
+        }
+    ]
+}

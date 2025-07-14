@@ -1,0 +1,28 @@
+{
+    "BeamConfig": [
+        {
+            "beamPriority": "1",
+            "BeamSize": {
+                "wide": "Wide",
+                "narrow": "Narrow"
+            },
+            "BeamCellBandwidth": {
+                "bw1": "3",
+                "bw2": "5",
+                "bw3": "10",
+                "bw4": "1.4"
+            },
+            "BeamUplinkFrequency": "875.5",
+            "BeamdownlinkFrequency": "945.5",
+            "BeamDownlinkOutputPower": "-50"
+        }
+    ],
+    "BeamDescriptor":[
+        {
+            "BW1":"3000000",
+            "BW2":"5000000",
+            "BW3":"1400000"
+
+        }
+    ]
+}

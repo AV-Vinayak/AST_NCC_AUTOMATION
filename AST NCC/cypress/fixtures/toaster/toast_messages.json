@@ -1,0 +1,85 @@
+{
+    "ToastMessages": {
+        "Login": [
+            {
+                "emailValidationMessage": "Email is required",
+                "passwordValidationMessage": "Password is required",
+                "validationMessages":{
+                    "invalidEmail":"we don't recognize that email. Please try again.",
+                    "unAuthorizedLogin":"User not enabled/Un Authorized user",
+                    "emailRequired":"Email is required",
+                    "passwordRequired":"Password is required"
+
+                }
+                
+            }
+        ],
+        "SpectralBand": [
+            {
+                "addSpectralBand": "Spectral Band created successfully!",
+                "deleteSpectralBand": "Spectral Band deleted successfully!"
+            }
+        ],
+        "BpmsConfiguration": [
+            {
+                "addBpmsConfiguration": "BPMS Configuration created successfully!",
+                "editBpmsConfiguration": "BPMS Configuration updated successfully!",
+                "deleteBpmsConfiguration": "BPMS Configuration deleted successfully!",
+                "deleteDuplicatePopup":"BPMS is associated with  Gateway Station and cannot be deleted.",
+                "addBpmsConfigurationDuplicatePopup":"Duplicate entry exists",
+                "addBpmsConfigurationSameName":"Bpms Name already exists.",
+                "validationMessages":{
+                    "BpmsNameRequired":"BPMS Name is required",
+                    "IpAddressRequired":"Management IP Address is required",
+                    "VersionRequired":"Version is required",
+                    "BpmsTypeRequired":"BPMS Type is required",
+                    "QVBandWidthRequired":"QV Band is required",
+                    "InitDelayRequired":"Init Delay is required",
+                    "DopplerRequired":"Init Doppler is required",
+                    "SystemDelayRequired":"System Delay is required",
+                    "ScTimeOffsetRequired":"SC Time Offset is required",
+                    "CdgpsModelRequired":"CD Gps Model is required",
+                    "ChannelNameRequired":"Channel is required",
+                    "CenterFreqUlRequired":"Center Frequency Ul is required",
+                    "CenteFreqDlRequired":"Center Frequency Dl is required",
+                    "SpectralBandRequired":"Spectral BandId is required",
+                    "ChannelTypeRequired":"Channel Type is required",
+                    "IpAdressValidValueValidation":"IP address is not valid or not in CIDR format",
+                    "ThreeChannelsRequired":"Three channels required",
+                    "MinimumOneChannelRequired":"Minimum one Channel required",
+                    "BpmsNameValidation":"Name field only accepts alphabets, combination of alphabets and numbers, spaces, underscore and hyphen."
+                    
+                }
+            }
+        ],
+        "UploadServiceCell":[
+            {
+                "uploadServiceCell":"Service request uploaded successfully"
+            }
+        ],
+        "UploadGeoCell":[
+            {
+                "uploadgeocell":"Geo file uploaded successfully"
+            }
+
+        ],
+        "CreateServiceCell":[
+            {
+                "createServiceCell":"Service cell Created successfully!",
+                "updateServiceCell":"Service cell updated successfully!",
+                "deleteServiceCell":"Service cell deleted successfully!"
+            }
+        ],
+        "CellMapping":[
+            {
+                "assignServiceCellMapping":"Cell Assignment created successfully!",
+                "updateassignedCellMapping":"Cell Assignment updated successfully!",
+                "releaseassignedCells":"Cell Assignment released successfully!"
+            }
+        ],
+        "BeamConfiguration":[{
+            "updateBeamConfig":"Beam config updated successfully!"
+        }]
+        
+    }
+}

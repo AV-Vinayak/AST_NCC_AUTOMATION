@@ -1,0 +1,6 @@
+Cell ID,Cell Latitude,Cell Longitude,Status,PlmnId,Beam Type,Frequency Id,Cell Priority,Receive Mode,Transmit Mode,Cell Name
+1840178,37.2294,-120.322,enabled,310410,Wide,54,,,,
+18404090,30.7807,-89.6234,enabled,310410,Wide,54,,,,
+18401010,32.4511,-111.7934,enabled,310410,Wide,2,,,,
+18405647,33.7219,-77.759,enabled,310410,Wide,60,,,,
+1840116,45.1851,-123.8523,enabled,310410,Wide,2,,,,
